@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const bot = new Discord.Client()
 const request = require('request');
 const refresh = 300;
-const token = "";
+const token = "alaala123";
 const wyspaOff = "Wyspa OFF"
 const info = [
     {
